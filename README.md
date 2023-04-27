@@ -12,4 +12,4 @@ Data was collected from NASA Earth Obervations (Water Vapour, Cloud Fraction), V
 
 All of these crteria were combined in ArcGIS Pro with a Model to Normalize and combine the data in monthly composites. 
 
-Starlink launch cadences were found and a weight based on montht of launch was created. These weight were mutlipled by the monthyl composites to create a yearly composite map that shows the ideal location of an SSA sensor.
+Starlink launch cadences were found and a weight based on montht of launch was created. These weight were mutlipled by the monthly composites to create a yearly composite map that shows the ideal location of an SSA sensor.
